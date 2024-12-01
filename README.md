@@ -1,5 +1,9 @@
 # Supermarket Customer Analysis Challenge
 (Title to be updated)
+Some suggestions:
+CustomerSphere - Highlights a holistic understanding of customer segments.
+ClusterCraft - Emphasizes the art and science of clustering customers.
+CustomerAxis - Indicates a central focus on understanding customer behaviors.
 
 ## Description
 This project focuses on a dataset of supermarket customer data from a well-established retail food company. The company serves nearly one million consumers annually, with several hundred thousand registered customers. Its product portfolio spans five major categories: wines, rare meat products, exotic fruits, specially prepared fish, and sweet products, further classified into gold and regular tiers. Customers access these products through three sales channels: physical stores, catalogs, and the company’s website.
